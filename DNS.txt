@@ -1,0 +1,15 @@
+DNS Servers and IP Addresses.
+
+
+
+# My DNS Server : 192.168.6.88
+
+
+
+# IP Addresses of Five Website:
+
+    1. Netflix : 44.226.113.145
+    2. GitHub :  20.207.73.82
+    3. Google :  142.250.196.174
+    4. Facebook : 157.240.23.35
+    5. Samsung : 211.45.27.231
